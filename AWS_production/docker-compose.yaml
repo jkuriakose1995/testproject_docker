@@ -13,7 +13,7 @@ services:
     # volumes:
     #   - /Users/jkuriakose/testprojectdocker:/var/testproject/agent
     environment:
-      TP_API_KEY: "E9ftDbHQ3jl_cKuWv7qLnpD3wxCKm5WsjFsNiUwXa7E1"
+      TP_API_KEY: "testproject_api_key"
       TP_JOB_ID: "_8NhWaaet0SujSOTGweH-Q"
       TP_JOB_PARAMS: '"jobParameters" : { "browsers": [ "chrome" ] }'
       CHROME: "chrome:4444"
